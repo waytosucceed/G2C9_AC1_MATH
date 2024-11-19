@@ -1,0 +1,55 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Which number is greater?",
+    "options": [
+      "42",
+      "39",
+      "24",
+      "35"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Which number comes first when ordering these numbers from smallest to largest?",
+    "options": [
+      "67",
+      "45",
+      "59",
+      "78"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Which of these numbers is the smallest?",
+    "options": [
+      "83",
+      "76",
+      "91",
+      "68"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Which number is less than 75?",
+    "options": [
+      "82",
+      "68",
+      "91",
+      "76"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Fill in the blank: <br>53 ___ 47",
+    "options": [
+      "<",
+      ">"
+    ],
+    "correct": 1
+  }
+]

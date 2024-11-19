@@ -1,0 +1,25 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Skip count by 10s and fill the missing number in the blank box.",
+    "options":["10","20","","40","50",""],
+    "answers": ["10","20","30","40","50","60"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 2,
+    "question": "Skip count by 5s and fill the missing number in the blank box.",
+    "options":["15","20","","30","","40"],
+    "answers": ["15","20","25","30","35","40"],
+    "secondImg":"./images/1.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Skip count by 5s and fill the missing number in the blank box.",
+    "options":["12","","22","27","","47"],
+    "answers": ["12","17","22","27","32","47"],
+    "secondImg":"./images/1.jpg"
+    
+  }
+]
